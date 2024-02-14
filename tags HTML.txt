@@ -1,0 +1,7 @@
+# Tags HTML
+
+<!DOCTYPE html> ( Começar com esta tag para avisar ao navegador qual o tipo do site )
+<html> é a tag principal ( basica )
+<head> é usada para colocar informações que só o navegador vai interpretar ex: o nome do site
+<body> é usada para mostar o conteudo do site
+html:5 ( preenche o basico para a criação de um site )
